@@ -1,0 +1,43 @@
+#tabela-resultado-imc{
+    padding: 5px 5px;
+    margin-top: 40px;
+}
+
+#tabela-resultado-imc thead tr td{
+    background-color:#eaeaec;
+    padding: 5px 5px;   
+}
+
+#tabela-resultado-imc tbody tr td{
+    padding: 5px 5px;
+    background-color: #eaeaec
+    border: 1px solid rgb(0, 0, 0); 
+}
+
+.muito-abaixo{
+    background-color: #de6868;
+}
+
+.abaixo{
+    background-color: #e8e8a0;
+}
+
+.normal{
+    background-color: #95d095;
+}
+
+.acima{
+    background-color: #efbc71;
+}
+
+.obesidade-1{
+    background-color: #d89696;
+}
+
+.obesidade-2{
+    background-color: #de6868;
+}
+
+.obesidade-3{
+    background-color: #e02727;
+}
